@@ -1,0 +1,3 @@
+function [f] = fiboRecurssiveInit(n)
+    global count;
+    count 
