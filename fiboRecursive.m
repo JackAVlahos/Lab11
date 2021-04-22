@@ -9,3 +9,4 @@ function fibonacciNumber = fiboRecursive(n)
         fibonacciNumber = fiboRecursive(n-2)+fiboRecursive(n-1);
     end
 end
+%whats up yall have a good day
